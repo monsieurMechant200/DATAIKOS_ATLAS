@@ -1,21 +1,91 @@
-MIT License
+LICENCE PROPRIÉTAIRE — DATAIKOS ATLAS
+======================================
 
-Copyright (c) 2025 Dataikos
+Copyright (c) 2026 David Meilleur Aat Ndongo. Tous droits réservés.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+AVERTISSEMENT : CE LOGICIEL EST UNE ŒUVRE PROPRIÉTAIRE PROTÉGÉE.
+Toute utilisation non expressément autorisée par écrit par David Meilleur Aat Ndongo
+est strictement interdite.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+─────────────────────────────────────────────────────────────────────
+1. PROPRIÉTÉ INTELLECTUELLE
+─────────────────────────────────────────────────────────────────────
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Le logiciel Dataikos Atlas, incluant l'intégralité de son code source,
+sa documentation, ses interfaces graphiques, ses algorithmes, ses bases
+de données et tout élément constitutif, est la propriété exclusive de
+Dataikos. Aucun droit de propriété intellectuelle n'est transféré par
+le simple fait d'accéder à ce dépôt ou de télécharger ce logiciel.
+
+─────────────────────────────────────────────────────────────────────
+2. DROITS ACCORDÉS
+─────────────────────────────────────────────────────────────────────
+
+L'accès à ce code source est accordé à des fins de consultation et
+d'évaluation uniquement. Toute autre utilisation — notamment les droits
+d'utilisation, d'exécution, de copie, de modification, de fusion,
+de distribution, de sous-licence ou de vente — est subordonnée à
+l'obtention préalable d'une autorisation écrite explicite de Dataikos.
+
+Pour obtenir une autorisation, contactez :
+    meilleurd2001@gmail.com
+
+─────────────────────────────────────────────────────────────────────
+3. INTERDICTIONS EXPLICITES
+─────────────────────────────────────────────────────────────────────
+
+Sans autorisation écrite préalable, il est strictement interdit de :
+
+  a) Utiliser ce logiciel à des fins personnelles(sauf pour des test en local), professionnelles
+     ou commerciales ;
+
+  b) Copier, reproduire ou dupliquer tout ou partie du code source ;
+
+  c) Modifier, adapter, traduire ou créer des oeuvres dérivées ;
+
+  d) Distribuer, publier, vendre ou sous-licencier le logiciel ou
+     toute partie de celui-ci ;
+
+  e) Intégrer tout ou partie de ce logiciel dans un autre projet,
+     qu'il soit open source ou propriétaire ;
+
+  f) Procéder à de l'ingénierie inverse, décompiler ou désassembler
+     le logiciel ;
+
+  g) Supprimer ou modifier les mentions de copyright, les notices de
+     licence ou toute autre mention d'attribution présente dans le
+     code source.
+
+─────────────────────────────────────────────────────────────────────
+4. CONTRIBUTIONS
+─────────────────────────────────────────────────────────────────────
+
+Toute contribution soumise à Dataikos (pull request, suggestion,
+correctif, etc.) implique de la part du contributeur la cession
+irrevocable et exclusive de tous les droits sur ladite contribution
+à Dataikos, sans contrepartie financière, sauf accord écrit contraire.
+
+─────────────────────────────────────────────────────────────────────
+5. ABSENCE DE GARANTIE
+─────────────────────────────────────────────────────────────────────
+
+CE LOGICIEL EST FOURNI "TEL QUEL", SANS GARANTIE D'AUCUNE SORTE,
+EXPRESSE OU IMPLICITE. DATAIKOS NE SAURAIT ÊTRE TENU RESPONSABLE
+DE TOUT DOMMAGE DIRECT, INDIRECT, ACCESSOIRE OU CONSEQUENTIEL
+DECOULANT DE L'UTILISATION OU DE L'IMPOSSIBILITE D'UTILISER CE
+LOGICIEL.
+
+─────────────────────────────────────────────────────────────────────
+6. DROIT APPLICABLE
+─────────────────────────────────────────────────────────────────────
+
+La présente licence est régie par le droit applicable dans le pays
+de résidence du titulaire des droits. Tout litige relatif à cette
+licence sera soumis à la juridiction compétente de ce territoire.
+
+─────────────────────────────────────────────────────────────────────
+
+Pour toute demande de licence commerciale ou de partenariat :
+    meilleurd2001@gmail.com
+
+(c) 2026 David Meilleur Aat Ndongo - Tous droits reserves.
