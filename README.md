@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-5.2%2B-informational)
 ![SQLite](https://img.shields.io/badge/Base%20de%20données-SQLite-lightgrey?logo=sqlite)
-![License](https://img.shields.io/badge/Licence-MIT-green)
+![License](https://img.shields.io/badge/All-Rights-Reserved)
 ![Version](https://img.shields.io/badge/Version-3.0.0-orange)
 
 ---
@@ -279,10 +279,10 @@ Conventions de commit recommandées : `feat:`, `fix:`, `refactor:`, `docs:`, `te
 
 ## Licence
 
-Ce projet est distribué sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour les détails.
+Ce projet est distribué sous licence **All Rights Reserved**. Voir le fichier [LICENSE](LICENSE) pour les détails.
 
 ---
 
 <p align="center">
-  Développé par <strong>Dataikos</strong> · <em>Smart Enterprise Intelligence</em>
+  Développé par <strong>David Meilleur Aat Ndongo</strong> · <em>Smart Enterprise Intelligence</em>
 </p>
