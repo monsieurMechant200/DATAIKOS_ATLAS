@@ -1,0 +1,8 @@
+customtkinter>=5.2.0
+Pillow>=10.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+statsmodels>=0.14.0
+reportlab>=4.0.0
+tkcalendar>=1.6.1
